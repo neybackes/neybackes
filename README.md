@@ -1,17 +1,6 @@
 <h1 alig
 ---
 
-## 📊 Estatísticas GitHub
-
-<div align="center">
-  <a href="https://github.com/neybackes">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=neybackes&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Ney Backes" />
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neybackes&layout=compact&langs_count=7&theme=gruvbox" alt="Linguagens mais usadas por Ney Backes" />
-  </a>
-</div>
-
----
-
 ## 🛠️ Tecnologias e Ferramentas
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
