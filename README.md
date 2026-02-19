@@ -1,11 +1,4 @@
-<h1 align="center">Ney Backes</h1>
-
-<p align="center"><strong>Analista de Qualidade de Tecnologia | Testes Funcionais & APIs | Processos & Negócios | IA aplicada ao QA</strong></p>
-
-<p align="center">
-Bem-vindo ao meu GitHub! Aqui você encontra projetos, automações e iniciativas voltadas para qualidade de software, testes funcionais, automação de APIs, integração contínua e melhoria de processos.
-</p>
-
+<h1 alig
 ---
 
 ## 📊 Estatísticas GitHub
@@ -44,4 +37,4 @@ Bem-vindo ao meu GitHub! Aqui você encontra projetos, automações e iniciativa
 
 ---
 
-> "Qualidade não é um ato, é um hábito."
+
