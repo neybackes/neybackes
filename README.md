@@ -1,26 +1,23 @@
+# Ney Backes
+
+Analista de Qualidade de Tecnologia | Testes Funcionais & APIs | Processos & Negócios | IA aplicada ao QA
+
+Bem-vindo ao meu GitHub! Aqui você encontra projetos, automações e iniciativas voltadas para qualidade de software, testes funcionais, automação de APIs, integração contínua e melhoria de processos.
+
 ---
 
-<div>
-  <div>
-    <a href="https://github.com/neybackes">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=neybackes&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neybackes&layout=compact&langs_count=7&theme=gruvbox"/>
-  <div/>
-      
+[![NeyBackes GitHub stats](https://github-readme-stats.vercel.app/api?username=neybackes&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true)](https://github.com/neybackes)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neybackes&layout=compact&langs_count=7&theme=gruvbox)](https://github.com/neybackes)
+
 ---
-</div>
-<div style="display: inline_block">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-</div>  
-    
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Robot Framework](https://img.shields.io/badge/Robot%20Framework-000000?style=for-the-badge&logo=robotframework&logoColor=white)
+
 ---
-</div>
-<div style="display: inline_block">
-  <a href="https://www.linkedin.com/in/silvioney-backes-27673b214/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="backesney@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>  
-</div>
-  
-  ---
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/silvioney-backes-27673b214/)
+
+---
+
+> "Qualidade não é um ato, é um hábito."
