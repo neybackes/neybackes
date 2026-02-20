@@ -1,4 +1,5 @@
-<h1 alig
+<h1 align="center">QA & Testes</h1>
+
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
@@ -12,6 +13,10 @@
 
 ## 🎯 Atuação em QA
 
+<a href="https://www.notion.so/Portf-lio-QA-2c29a13279ae80418e5fec625df6bb4c" target="_blank">
+  <img src="https://img.shields.io/badge/Portf%C3%B3lio-000?style=for-the-badge&logo=briefcase&logoColor=white" alt="Portfolio"/>
+</a> 
+
 - Planejamento e execução de testes funcionais
 - Automação de testes de API
 - Qualidade orientada a processos e objetivos de negócio
@@ -22,8 +27,8 @@
 
 ## 🌐 Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/silvioney-backes-27673b214/)
+<a href="https://www.linkedin.com/in/silvioney-backes-27673b214/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 
 ---
-
-
