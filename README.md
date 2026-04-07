@@ -1,4 +1,4 @@
-<h1 align="center">Quality Assurance Engineer</h1>
+<h1 align="center">Quality Assurance Analyst</h1>
 
 ---
 
