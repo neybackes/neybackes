@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-Quality Assurance Engineer focused on delivering reliable and scalable software through strong business understanding and technical testing practices.
+Quality Assurance Analyst focused on delivering reliable and scalable software through strong business understanding and technical testing practices.
 
 Experienced in financial systems, ensuring end-to-end quality across APIs, integrations, and complex business rules. I work from requirement analysis to validation, always guided by risk and business impact.
 
